@@ -1,6 +1,17 @@
 body{
     background-image: url("../images/cover.png");
     background-size: cover;
-    background-attachment: fixed;
-    
+    background-attachment: fixed; 
+}
+
+.block{
+    margin: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.block-top{
+    border-color: rebeccapurple;
+    max-height: 500px;
 }
