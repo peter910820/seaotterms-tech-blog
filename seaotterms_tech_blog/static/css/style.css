@@ -1,3 +1,8 @@
+::selection {
+    background-color: coral;
+    color: #ffffff;
+}
+
 body{
     background-image: url("../images/cover.png");
     background-size: cover;
